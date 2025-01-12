@@ -1,0 +1,14 @@
+echo "
+# Dossiers et fichiers Eclipse
+.project
+.classpath
+.settings/
+
+# Dossiers de build
+bin/
+build/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+" > .gitignore
